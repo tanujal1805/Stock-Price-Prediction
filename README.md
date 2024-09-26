@@ -6,5 +6,6 @@ Key Features:
 - LSTM model for accurate stock price forecasting.
 - Achieved 80% accuracy on predictions.
 - Visualized results using Python libraries.
+
 Technologies:
 - Python, TensorFlow/Keras, Pandas, NumPy, Matplotlib, Scikit-learn
